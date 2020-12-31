@@ -27,7 +27,7 @@ const Alexa = require('ask-sdk-core');
 const STREAMS = [
   {
     "token": "1",
-    "url": 'https://stream.laut.fm/radio-marzahn?ref=alexa',
+    "url": 'https://stream.laut.fm/radio-marzahn?ref=alexa-own-radio-marzahn',
     "metadata" : {
       "title": "Radio Marzahn",
       "subtitle": "Radio Marzahn von laut.fm.",
